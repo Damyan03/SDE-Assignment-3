@@ -1,6 +1,5 @@
-# Game Character Design Patterns
-
-This document describes the design patterns used in the game character implementation. The application demonstrates the use of several design patterns to provide a flexible and reusable design, particularly suitable for game development scenarios.
+**Teammate:**
+Originally this project was suppose to be a collaboration between me and 1vogada (Ivo) however due to disagreement about the project direction we decided to split up.
 
 ## Design Patterns Used
 

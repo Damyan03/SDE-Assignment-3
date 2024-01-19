@@ -1,6 +1,8 @@
 **Teammate:**
 Originally this project was suppose to be a collaboration between me and 1vogada (Ivo) however due to disagreement about the project direction we decided to split up.
 
+GITHUB LINK: https://github.com/Damyan03/SDE-Assignment-3/tree/main
+
 ## Design Patterns Used
 
 ### 1. Strategy Pattern
